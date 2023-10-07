@@ -1,4 +1,4 @@
-package dev.bootloader.intellij.generator
+package dev.bootloader.intellij.module
 
 import com.intellij.openapi.module.ModuleType
 import com.intellij.openapi.module.ModuleTypeManager

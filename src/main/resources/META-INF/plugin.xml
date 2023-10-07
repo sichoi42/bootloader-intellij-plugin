@@ -28,7 +28,7 @@
        Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
   <extensions defaultExtensionNs="com.intellij">
     <moduleType id="BOOTLOADER_MODULE_TYPE"
-      implementationClass="dev.bootloader.intellij.generator.BootLoaderModuleType"
+      implementationClass="dev.bootloader.intellij.module.BootLoaderModuleType"
       order="last"/>
   </extensions>
 </idea-plugin>
